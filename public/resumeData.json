@@ -1,0 +1,164 @@
+{
+  "main": {
+    "name":"Paul Miningwa",
+    "occupation":"Blockchain Developer",
+    "description":"I am a blockchain developer with 2 years experince. I have been involved in projects in designing and implementing smart contracts based on Etherium Blockchain technology implemented on ReactJS and React Native.",
+    "image":"profilepic.jpg",
+    "bio":"I have been involved in smart contracts implementations for three fortune 500 companies as a freelance developer. I have passion in software development and blockchain technologies ie Ethereum in particular. I am a seasoned blockchain developer with experience in web and mobile development. I am a problem solver and a team player with a history of delivering projects within the agreed timelines. I am a problem solver and a team player with a history of delivering projects within the agreed timelines. All this can be ascertained on my Upwork profile client testimonials.",
+    "contactmessage":"I am looking forward to challenging and exciting opportunities that your projects may bring whether you are inSupply chain, Real Estate or Government. I shall be happy to partner with you in getting a solution to your problems. I shall handhold you through its implementation with an affordable one year Annual Maintenance Contract.",
+    "email": "miningwa.paul@gmail.com",
+    "phone": "+254 722 595 294",
+    "address":{
+      "street":"Haille Selassie Avenue",
+      "city":"Nairobi",
+      "state":"Nairobi",
+      "zip": "00100"
+    },
+    "website": "http://www.paulminingwa.com",
+    "resumedownload":"http://www.paulminingwa.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/paul.miningwa/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/PaulMiningwa",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"https://myaccount.google.com/profile",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/paul-miningwa-16a78a19/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/paulminingwa/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/miningwa",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Strathmore University.",
+        "degree":"Masters in Information Technology - Data Analytics and Business Intelligence.",
+        "graduated":"June 2021.",
+        "description":"I am currently pursuing an M.Sc. IT DA & BI degree at Strathmore University Specializing in Predictive Analytics."
+      },
+      {
+        "school":"Kenyatta University",
+        "degree":"BSc. Telecommunication and Information Technology",
+        "graduated":"December 2011.",
+        "description":"I studied Telecommunication and Information Technology during my undergraduate studies. I majored in Telecommunication Systems Security."
+      }
+    ],
+    "work":[
+      {
+        "company":"Freelance",
+        "title":" Freelance Blockchain Developer",
+        "years":"March 2020- Present",
+        "description":"I have developed projects on blockchain in Supply Chain, Real Estate, Academia, Health, Food Security and Government. I was involved in using blockchain to digitize land sale and purchase transactions in the Ministry of Lands in Kenya."
+      },
+      {
+        "company":"Radium Africa Limited",
+        "title":"Web Developer",
+        "years":"March 2017- February 2020",
+        "description":"Development and implemented Anonymous Tax Evation surveillance System for Government of Kenya."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"Django",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"55%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"React Native",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Land Transations Management System",
+        "category":"Business - Real Estate",
+        "image":"lands_logo.jpg",
+        "url":"https://lands.go.ke/"
+      },
+      {
+        "title":"Anonymous Tax Evasion Reporting System",
+        "category":"Business - Tax Administration",
+        "image":"whistleblower.png",
+        "url":"http://iwhistle.kra.go.ke"
+      },
+      {
+        "title":"Integrated Legal Services Management System",
+        "category":"Government Agency System",
+        "image":"ilaw.png",
+        "url":"https://ilaw.kra.go.ke/"
+      },
+      {
+        "title":"My Personal Portfolio",
+        "category":"A React based resume website template",
+        "image":"portfolio-pm.png",
+        "url":"http://www.paulminingwa.com"
+      },
+      {
+        "title":"Kikao",
+        "category":"Business - Government",
+        "image":"kikao.png",
+        "url":"https://iboard.kra.go.ke"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I worked with Paul Miningwa during he implementation of Integrated Board Management System. He is an excellent team player and problem solver. I highly recommend him for your projects.",
+        "user":"Eric Atinga"
+      },
+      {
+        "text":"Paul Miningwa was my team leader during the development of Land Digital Register. He is a good leader and manager who is helpful in assisting you to set and reach your targets. He also delivers excellent mentorship and holding his team members accountable on their performance.",
+        "user":"Edwin Kamau"
+      }
+    ]
+  }
+}
